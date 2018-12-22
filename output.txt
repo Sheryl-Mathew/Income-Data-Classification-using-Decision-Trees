@@ -1,0 +1,10 @@
+Decision tree:
+
+Accuracy of training data using Decision tree from Scratch: 80.184000
+Accuracy of training data using Decision tree from Sklearn: 96.716000
+
+Accuracy of development data using Decision tree from Scratch: 78.050398
+Accuracy of development data using Decision tree from Sklearn: 78.381963
+
+Accuracy of testing data using Decision tree from Scratch: 77.249417
+Accuracy of testing data using Decision tree from Sklearn: 78.834499
